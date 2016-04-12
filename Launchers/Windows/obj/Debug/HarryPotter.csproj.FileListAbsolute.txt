@@ -1,0 +1,66 @@
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\HarryPotter.exe.config
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\HarryPotter.exe
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\HarryPotter.pdb
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Adapter.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Common.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Components.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Framework.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.ImageEffects.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Materials.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Direct3D9.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Direct3D11.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.DXGI.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Desktop.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.MediaFoundation.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Mathematics.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.XAudio2.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\NAudio.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.DirectInput.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.XInput.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Physics.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Bepu.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Farseer.dll
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Adapter.xml
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Common.xml
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Framework.xml
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Components.xml
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Materials.xml
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.ImageEffects.xml
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Physics.xml
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\obj\Debug\HarryPotter.exe
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\obj\Debug\HarryPotter.pdb
+C:\Users\acer\Documents\HarryPotter\Launchers\Windows\obj\Debug\HarryPotter.csprojResolveAssemblyReference.cache
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\HarryPotter.exe.config
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\obj\Debug\HarryPotter.exe
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\obj\Debug\HarryPotter.pdb
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\HarryPotter.exe
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\HarryPotter.pdb
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Adapter.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Common.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Components.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Framework.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.ImageEffects.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Materials.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Direct3D9.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Direct3D11.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.DXGI.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Desktop.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.MediaFoundation.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.Mathematics.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.XAudio2.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\NAudio.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.DirectInput.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\SharpDX.XInput.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Physics.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Bepu.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Farseer.dll
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Adapter.xml
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Common.xml
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Framework.xml
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Components.xml
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Materials.xml
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.ImageEffects.xml
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\bin\AnyCPU\Debug\WaveEngine.Physics.xml
+D:\Programming\Area 51\Harry Potter\HarryPotter Wave\Launchers\Windows\obj\Debug\HarryPotter.csprojResolveAssemblyReference.cache

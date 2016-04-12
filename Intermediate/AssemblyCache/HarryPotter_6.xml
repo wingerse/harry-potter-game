@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HarryPotter_6</name>
+    </assembly>
+    <members>
+        <member name="M:HarryPotter.App.OnActivated">
+            <summary>
+                Called when [activated].
+            </summary>
+        </member>
+        <member name="M:HarryPotter.App.OnDeactivate">
+            <summary>
+                Called when [deactivate].
+            </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Font_TTF">
+            <summary> Path to Content/Assets/Font.TTF </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Obstacles_xml">
+            <summary> Path to Content/Assets/Obstacles.xml </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Music.music_mp3">
+            <summary> Path to Content/Assets/Music/music.mp3 </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.BackgroundBoard_png">
+            <summary> Path to Content/Assets/Sprites/BackgroundBoard.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Button_png">
+            <summary> Path to Content/Assets/Sprites/Button.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.ButtonOver_png">
+            <summary> Path to Content/Assets/Sprites/ButtonOver.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.CastleBoard_png">
+            <summary> Path to Content/Assets/Sprites/CastleBoard.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Explosion_spritesheet">
+            <summary> Path to Content/Assets/Sprites/Explosion.spritesheet </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.GroundUnitBoard_spritesheet">
+            <summary> Path to Content/Assets/Sprites/GroundUnitBoard.spritesheet </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Harry_spritesheet">
+            <summary> Path to Content/Assets/Sprites/Harry.spritesheet </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Magic_spritesheet">
+            <summary> Path to Content/Assets/Sprites/Magic.spritesheet </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.MagicBoard_png">
+            <summary> Path to Content/Assets/Sprites/MagicBoard.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.MenuOver_png">
+            <summary> Path to Content/Assets/Sprites/MenuOver.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.particle_png">
+            <summary> Path to Content/Assets/Sprites/particle.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.SkyBoard_png">
+            <summary> Path to Content/Assets/Sprites/SkyBoard.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.StartMenuBackground_jpg">
+            <summary> Path to Content/Assets/Sprites/StartMenuBackground.jpg </summary>
+        </member>
+        <member name="T:HarryPotter.WaveContent.Assets.Sprites.Explosion_spritesheet_TextureName">
+            <summary> Texture names from spritesheet Content/Assets/Sprites/Explosion.spritesheet </summary>
+        </member>
+        <member name="T:HarryPotter.WaveContent.Assets.Sprites.GroundUnitBoard_spritesheet_TextureName">
+            <summary> Texture names from spritesheet Content/Assets/Sprites/GroundUnitBoard.spritesheet </summary>
+        </member>
+        <member name="T:HarryPotter.WaveContent.Assets.Sprites.Harry_spritesheet_TextureName">
+            <summary> Texture names from spritesheet Content/Assets/Sprites/Harry.spritesheet </summary>
+        </member>
+        <member name="T:HarryPotter.WaveContent.Assets.Sprites.Magic_spritesheet_TextureName">
+            <summary> Texture names from spritesheet Content/Assets/Sprites/Magic.spritesheet </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle1_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle1.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle10_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle10.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle11_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle11.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle12_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle12.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle13_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle13.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle14_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle14.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle15_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle15.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle2_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle2.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle3_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle3.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle4_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle4.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle5_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle5.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle6_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle6.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle7_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle7.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle8_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle8.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Assets.Sprites.Obstacles.obstacle9_png">
+            <summary> Path to Content/Assets/Sprites/Obstacles/obstacle9.png </summary>
+        </member>
+        <member name="F:HarryPotter.WaveContent.Scenes.MyScene">
+            <summary> Path to Content/Scenes/MyScene.wscene </summary>
+        </member>
+    </members>
+</doc>
